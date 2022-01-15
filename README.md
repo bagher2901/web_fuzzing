@@ -3,8 +3,11 @@
 A tool for dynamically detecting web vulnerabilities, focusing on XSS
 
 Requirements :
-  pip install html5lib
+
+
+
+  1)pip install html5lib
   
   
-  pip install beautifulsoup4
+  2)pip install beautifulsoup4
   
