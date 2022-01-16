@@ -4,6 +4,7 @@
     <list default="true" id="65aa6bb6-5942-4edd-a535-8ddb1343b203" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,9 @@
       <workItem from="1641053679398" duration="90000" />
       <workItem from="1642096726141" duration="1817000" />
       <workItem from="1642155665219" duration="1844000" />
+      <workItem from="1642232282593" duration="394000" />
+      <workItem from="1642245198445" duration="3000000" />
+      <workItem from="1642268580053" duration="524000" />
     </task>
     <servers />
   </component>
@@ -96,6 +100,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1641053757384" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1642248024711">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1642248024711" />
     <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1642157538570">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
